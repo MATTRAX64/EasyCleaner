@@ -1,0 +1,2 @@
+# EasyCleaner
+Clean your pc 🧹
